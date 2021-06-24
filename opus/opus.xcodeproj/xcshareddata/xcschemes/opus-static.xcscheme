@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DB91C0A72684F1FD00502F09"
-               BuildableName = "libopus-static.a"
+               BuildableName = "libopus.a"
                BlueprintName = "opus-static"
                ReferencedContainer = "container:opus.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DB91C0A72684F1FD00502F09"
-            BuildableName = "libopus-static.a"
+            BuildableName = "libopus.a"
             BlueprintName = "opus-static"
             ReferencedContainer = "container:opus.xcodeproj">
          </BuildableReference>
